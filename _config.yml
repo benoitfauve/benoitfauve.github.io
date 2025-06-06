@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Benoit Fauve"
   avatar : "/assets/images/Dolly_the_sheep_headphones_2.jpg"
-  bio    : "ML, Speech and and more if it hits it off ."
+  bio    : "ML, Speech and more if it hits it off ."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
