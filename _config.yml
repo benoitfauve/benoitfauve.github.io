@@ -24,7 +24,7 @@ search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+remote_theme: "mmistakes/minimal-mistakes@4.26.1"
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -63,8 +63,8 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://benoitfauve.github.io/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+    - label: "X"
+      icon: "fab fa-fw fa-x-twitter"
       url: "https://twitter.com/BenoitFauve"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -78,8 +78,8 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+    - label: "X"
+      icon: "fab fa-fw fa-x-twitter"
       url: "https://twitter.com/benoitfauve"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
