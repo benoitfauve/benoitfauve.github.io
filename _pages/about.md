@@ -3,6 +3,10 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I am currently the Chief Research and Development Officer at ValidSoft, a company at the forefront of voice biometrics, audio deepfake detection, and voice AI technologies.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+With deep expertise in voice AI, I specialize in translating cutting-edge research into real-world solutions that address critical challenges like synthetic speech and spoofing threats.
+
+I bring nearly two decades of experience in the private sector, complemented by a strong academic foundation established during my PhD. I continue to stay closely connected to the research community through active collaboration and engagements.
+
+Specialties: Artificial Intelligence, Machine Learning, Speech and Signal Processing, Voice Biometrics, Audio Deepfake Detection, R&D Leadership.
