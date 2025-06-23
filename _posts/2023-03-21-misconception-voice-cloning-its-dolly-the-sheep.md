@@ -4,14 +4,13 @@ date: 2023-03-21 00:00:00 +0000
 categories:
   - repost
   - blog
-link: https://www.linkedin.com/pulse/misconception-voice-cloning-its-dolly-sheep-benoit-fauve/
 tags:
   - deepfake
 ---
 
 **Original article:** [LinkedIn](https://www.linkedin.com/pulse/misconception-voice-cloning-its-dolly-sheep-benoit-fauve/)
 
-![Time to rethink the use of the word cloning when dealing with voices?](pics/audio-sheep.png)  
+![Time to rethink the use of the word cloning when dealing with voices?](../../assets/images/sheep-headphones.jpg)  
 *Time to rethink the use of the word cloning when dealing with voices?*
 
 # The Misconception of Voice Cloning: It's Not Dolly the Sheep
