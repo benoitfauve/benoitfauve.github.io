@@ -2,16 +2,14 @@
 title: "Deepfake audio has a tell: Validsoft can spot it"
 date: 2023-02-01 11:00:00 +0000
 categories:
-  - repost
   - blog
-link: https://www.linkedin.com/pulse/deepfake-audio-has-tell-validsoft-can-spot-benoit-fauve/
 tags:
   - deepfake
 ---
 
 **Original article:** [LinkedIn](https://www.linkedin.com/pulse/deepfake-audio-has-tell-validsoft-can-spot-benoit-fauve/)
 
-![Deepfake Audio Header](pics/header-deepfake.png)
+![Deepfake Audio Header](../../assets/images/EW-speech.jpg)
 
 # Deepfake Audio Has A Tell and ValidSoft Can Spot It
 
