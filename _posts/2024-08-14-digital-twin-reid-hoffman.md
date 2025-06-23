@@ -4,7 +4,6 @@ date: 2024-08-14 11:00:00 +0000
 categories:
   - repost
   - blog
-link: https://www.validsoft.com/blog/digital-twin-reid-hoffman/
 tags:
   - deepfake
 ---
