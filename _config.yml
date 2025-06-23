@@ -63,30 +63,33 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://benoitfauve.github.io/"
-    - label: "X"
-      icon: "fab fa-fw fa-x-twitter"
-      url: "https://twitter.com/BenoitFauve"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/benoitfauve"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/benoit-fauve-92045a11/"
-#    - label: "Instagram"
-#      icon: "fab fa-fw fa-instagram"
-#      url: "https://instagram.com/"
-
-footer:
-  links:
-    - label: "X"
-      icon: "fab fa-fw fa-x-twitter"
-      url: "https://twitter.com/benoitfauve"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/benoitfauve"
-#    - label: "Instagram"
-#      icon: "fab fa-fw fa-instagram"
-#      url: "https://instagram.com/"
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/benoitfauve.bsky.social"
+    - label: "X"
+      icon: "fab fa-fw fa-x-twitter"
+      url: "https://twitter.com/BenoitFauve"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/"
+
+footer:
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/benoit-fauve-92045a11/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/benoitfauve"
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/benoitfauve.bsky.social"
 
 defaults:
   # _posts
