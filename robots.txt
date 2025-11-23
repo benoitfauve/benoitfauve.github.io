@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://benoitfauve.github.io/sitemap.xml
