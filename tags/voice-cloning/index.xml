@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Voice-Cloning on Benoit Fauve</title>
+    <link>https://benoitfauve.github.io/tags/voice-cloning/</link>
+    <description>Recent content in Voice-Cloning on Benoit Fauve</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://benoitfauve.github.io/tags/voice-cloning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Misconception about voice cloning: it&#39;s Dolly the sheep</title>
+      <link>https://benoitfauve.github.io/posts/2023-03-21-misconception-voice-cloning-its-dolly-the-sheep/</link>
+      <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://benoitfauve.github.io/posts/2023-03-21-misconception-voice-cloning-its-dolly-the-sheep/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Original article:&lt;/strong&gt; &lt;a href=&#34;https://www.linkedin.com/pulse/misconception-voice-cloning-its-dolly-sheep-benoit-fauve/&#34;&gt;LinkedIn&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;the-misconception-of-voice-cloning-its-not-dolly-the-sheep&#34;&gt;The Misconception of Voice Cloning: It&amp;rsquo;s Not Dolly the Sheep&lt;/h1&gt;
+&lt;p&gt;When we hear the word &amp;ldquo;cloning&amp;rdquo;, most of us imagine a sci-fi scene with a scientist in a white lab coat, surrounded by test tubes and microscopes, creating an exact replica of a living organism. However, when it comes to voice cloning, the term is rather misleading. Putting one of these so-called cloned voices under our microscopes, we have recently highlighted that the Emma Watson fake voice, despite sounding natural and like the famous actress to the human ear, failed both biometrics and naturalness checks.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

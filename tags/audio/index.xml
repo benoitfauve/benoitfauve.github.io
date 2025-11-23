@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Audio on Benoit Fauve</title>
+    <link>https://benoitfauve.github.io/tags/audio/</link>
+    <description>Recent content in Audio on Benoit Fauve</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Feb 2023 11:00:00 +0000</lastBuildDate>
+    <atom:link href="https://benoitfauve.github.io/tags/audio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The rise of audio deepfakes: implications and challenges</title>
+      <link>https://benoitfauve.github.io/posts/2023-02-20-the-rise-of-audio-deepfakes/</link>
+      <pubDate>Mon, 20 Feb 2023 11:00:00 +0000</pubDate>
+      <guid>https://benoitfauve.github.io/posts/2023-02-20-the-rise-of-audio-deepfakes/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Original article:&lt;/strong&gt; &lt;a href=&#34;https://www.linkedin.com/pulse/rise-audio-deepfakes-implications-challenges-benoit-fauve/&#34;&gt;LinkedIn&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Audio deepfakes have become a growing concern as the technology used to create them has rapidly advanced in recent years. Novel approaches, such as the VALL-E Text-To-Speech (TTS) system developed by Microsoft, claim to synthesize voices with only three seconds of audio from the targeted speaker. Microsoft&amp;rsquo;s VALL-E research paper was published in early January 2023 and was followed in February by a similar piece of work by Google&amp;rsquo;s SPEAR-TTS. These technologies are part of a wider development called generative AI, whose recent breakthroughs have been making the headlines over the last months and includes image generation (DALL-E, Stable diffusion, Midjourney,…) and text generation (ChatGPT,…).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Deepfake audio has a tell: Validsoft can spot it</title>
+      <link>https://benoitfauve.github.io/posts/2023-02-01-deepfake-audio-has-a-tell-validsoft-can-spot-it/</link>
+      <pubDate>Wed, 01 Feb 2023 11:00:00 +0000</pubDate>
+      <guid>https://benoitfauve.github.io/posts/2023-02-01-deepfake-audio-has-a-tell-validsoft-can-spot-it/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Original article:&lt;/strong&gt; &lt;a href=&#34;https://www.linkedin.com/pulse/deepfake-audio-has-tell-validsoft-can-spot-benoit-fauve/&#34;&gt;LinkedIn&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;deepfake-audio-has-a-tell-and-validsoft-can-spot-it&#34;&gt;Deepfake Audio Has A Tell and ValidSoft Can Spot It&lt;/h1&gt;
+&lt;p&gt;Have you seen the recent news about voice cloning abuse using software produced by Eleven Labs?&lt;/p&gt;
+&lt;p&gt;Users took the voice-cloning technology to create deepfake audio recordings of the actress Emma Watson reading &lt;em&gt;Mein Kampf&lt;/em&gt; by Adolf Hitler and the broadcaster Sir David Attenborough being racist and posted them on the message board 4Chan in the latest abuse of AI technology.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
