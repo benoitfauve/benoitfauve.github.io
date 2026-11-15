@@ -4,7 +4,7 @@
     <title>Posts on Benoit Fauve</title>
     <link>https://benoitfauve.github.io/posts/</link>
     <description>Recent content in Posts on Benoit Fauve</description>
-    <generator>Hugo -- 0.169.0</generator>
+    <generator>Hugo -- 0.170.0</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 06 Nov 2026 09:00:00 +0000</lastBuildDate>
     <atom:link href="https://benoitfauve.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -13,83 +13,35 @@
       <link>https://benoitfauve.github.io/posts/2026-10-17-back-from-the-past-spectral-subtraction/</link>
       <pubDate>Sat, 17 Oct 2026 09:00:00 +0000</pubDate>
       <guid>https://benoitfauve.github.io/posts/2026-10-17-back-from-the-past-spectral-subtraction/</guid>
-      <description>&lt;p&gt;I recently dusted off one of my first projects in speech processing: a demo with a simple graphical interface showing real-time denoising of an audio signal.&lt;/p&gt;
-&lt;p&gt;This project was part of an Erasmus break in the &amp;ldquo;Speech and Image Group&amp;rdquo; at the University of Wales Swansea, when I was finishing my degree at ENSPM (now Centrale Marseille).&lt;/p&gt;
-&lt;figure class=&#34;waveplayers-figure&#34; style=&#34;max-width: 440px&#34;&gt;
-&lt;div class=&#34;waveplayers&#34; style=&#34;--wp-cols: 1&#34;&gt;
-
-&lt;script src=&#34;https://benoitfauve.github.io/js/vendor/wavesurfer-8.0.3.min.js&#34; defer&gt;&lt;/script&gt;
-&lt;script src=&#34;https://benoitfauve.github.io/js/waveplayer.js&#34; defer&gt;&lt;/script&gt;
-&lt;div class=&#34;waveplayer waveplayer--compact waveplayer--mint&#34;&gt;
-  &lt;button class=&#34;wp-play&#34; type=&#34;button&#34; aria-label=&#34;Play&#34;&gt;
-    &lt;svg class=&#34;wp-icon-play&#34; viewBox=&#34;0 0 24 24&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;M8 5.5v13l11-6.5z&#34; fill=&#34;currentColor&#34;/&gt;&lt;/svg&gt;
-    &lt;svg class=&#34;wp-icon-pause&#34; viewBox=&#34;0 0 24 24&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;M7 5h3.5v14H7zM13.5 5H17v14h-3.5z&#34; fill=&#34;currentColor&#34;/&gt;&lt;/svg&gt;
-  &lt;/button&gt;
-  &lt;div class=&#34;wp-body&#34;&gt;
-    &lt;div class=&#34;wp-wave&#34;&gt;&lt;/div&gt;
-    &lt;audio controls preload=&#34;metadata&#34; src=&#34;https://benoitfauve.github.io/audio/throwitaway.noisy.wav&#34;&gt;&lt;/audio&gt;
-  &lt;/div&gt;
-  &lt;span class=&#34;wp-time&#34;&gt;&lt;/span&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;waveplayer waveplayer--compact waveplayer--mint&#34;&gt;
-  &lt;button class=&#34;wp-play&#34; type=&#34;button&#34; aria-label=&#34;Play&#34;&gt;
-    &lt;svg class=&#34;wp-icon-play&#34; viewBox=&#34;0 0 24 24&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;M8 5.5v13l11-6.5z&#34; fill=&#34;currentColor&#34;/&gt;&lt;/svg&gt;
-    &lt;svg class=&#34;wp-icon-pause&#34; viewBox=&#34;0 0 24 24&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;M7 5h3.5v14H7zM13.5 5H17v14h-3.5z&#34; fill=&#34;currentColor&#34;/&gt;&lt;/svg&gt;
-  &lt;/button&gt;
-  &lt;div class=&#34;wp-body&#34;&gt;
-    &lt;div class=&#34;wp-wave&#34;&gt;&lt;/div&gt;
-    &lt;audio controls preload=&#34;metadata&#34; src=&#34;https://benoitfauve.github.io/audio/throwitaway.a2-b0.05.wav&#34;&gt;&lt;/audio&gt;
-  &lt;/div&gt;
-  &lt;span class=&#34;wp-time&#34;&gt;&lt;/span&gt;
-&lt;/div&gt;
-
-
-&lt;/div&gt;
-&lt;figcaption&gt;Top: noisy input, the 2001 car recording. Bottom: denoised by spectral subtraction (α = 2, β = 0.05).&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h2 id=&#34;some-fond-memories-ticking-the-boxes-and-beyond&#34;&gt;Some fond memories, ticking the boxes and beyond&lt;/h2&gt;
-&lt;p&gt;I have some good memories of this project.&lt;/p&gt;</description>
+      <description>One of my first speech processing projects, a real-time denoising demo, dusted off.</description>
     </item>
     <item>
       <title>Digital twin: Reid Hoffman&#39;s view</title>
       <link>https://benoitfauve.github.io/posts/2024-08-14-digital-twin-reid-hoffman/</link>
       <pubDate>Wed, 14 Aug 2024 11:00:00 +0000</pubDate>
       <guid>https://benoitfauve.github.io/posts/2024-08-14-digital-twin-reid-hoffman/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Original article:&lt;/strong&gt; &lt;a href=&#34;https://www.validsoft.com/blog/digital-twin-reid-hoffman/&#34;&gt;Validsoft&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&#34;what-reid-hoffmans-dialogue-with-his-digital-twin-teaches-us-about-ais-potential-and-risks&#34;&gt;What Reid Hoffman&amp;rsquo;s Dialogue With His Digital Twin Teaches Us About AI&amp;rsquo;s Potential and Risks&lt;/h1&gt;
-&lt;p&gt;Reid Hoffman, co-founder of LinkedIn, recently engaged in a groundbreaking experiment by &lt;a href=&#34;https://www.popsci.com/technology/ai-clone-interview/&#34;&gt;interviewing an AI-generated version of himself&lt;/a&gt; (digital twin). This dialogue not only showcased the impressive capabilities of generative AI but also highlighted the urgent need for advanced detection tools to differentiate between human and machine-generated content.&lt;/p&gt;
-&lt;h2 id=&#34;the-encounter-man-meets-machine&#34;&gt;The Encounter: Man Meets Machine&lt;/h2&gt;
-&lt;p&gt;In the video, Hoffman interacts with his digital twin, Reid AI, exploring the intricacies of AI-generated content and its broader implications. While the AI demonstrated impressive coherence in responding, it occasionally came across as overly technical or &amp;ldquo;business school bingo,&amp;rdquo; sparking both excitement and concern about the future of such technology. Their discussion spanned topics like the AI&amp;rsquo;s ability to summarize complex concepts—such as Hoffman&amp;rsquo;s book &lt;em&gt;Blitzscaling&lt;/em&gt;—and the potential for AI to serve as a video host. Ethical considerations, job displacement, and the role of various sectors in adapting to AI advancements were also key points of reflection.&lt;/p&gt;</description>
+      <description>An interview with an AI-generated version of himself, and what it means for detection.</description>
     </item>
     <item>
       <title>Misconception about voice cloning: it&#39;s Dolly the sheep</title>
       <link>https://benoitfauve.github.io/posts/2023-03-21-misconception-voice-cloning-its-dolly-the-sheep/</link>
       <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://benoitfauve.github.io/posts/2023-03-21-misconception-voice-cloning-its-dolly-the-sheep/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Original article:&lt;/strong&gt; &lt;a href=&#34;https://www.linkedin.com/pulse/misconception-voice-cloning-its-dolly-sheep-benoit-fauve/&#34;&gt;LinkedIn&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&#34;the-misconception-of-voice-cloning-its-not-dolly-the-sheep&#34;&gt;The Misconception of Voice Cloning: It&amp;rsquo;s Not Dolly the Sheep&lt;/h1&gt;
-&lt;p&gt;When we hear the word &amp;ldquo;cloning&amp;rdquo;, most of us imagine a sci-fi scene with a scientist in a white lab coat, surrounded by test tubes and microscopes, creating an exact replica of a living organism. However, when it comes to voice cloning, the term is rather misleading. Putting one of these so-called cloned voices under our microscopes, we have recently highlighted that the Emma Watson fake voice, despite sounding natural and like the famous actress to the human ear, failed both biometrics and naturalness checks.&lt;/p&gt;</description>
+      <description>Is &amp;ldquo;cloning&amp;rdquo; the right word for synthetic voices?</description>
     </item>
     <item>
       <title>The rise of audio deepfakes: implications and challenges</title>
       <link>https://benoitfauve.github.io/posts/2023-02-20-the-rise-of-audio-deepfakes/</link>
       <pubDate>Mon, 20 Feb 2023 11:00:00 +0000</pubDate>
       <guid>https://benoitfauve.github.io/posts/2023-02-20-the-rise-of-audio-deepfakes/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Original article:&lt;/strong&gt; &lt;a href=&#34;https://www.linkedin.com/pulse/rise-audio-deepfakes-implications-challenges-benoit-fauve/&#34;&gt;LinkedIn&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Audio deepfakes have become a growing concern as the technology used to create them has rapidly advanced in recent years. Novel approaches, such as the VALL-E Text-To-Speech (TTS) system developed by Microsoft, claim to synthesize voices with only three seconds of audio from the targeted speaker. Microsoft&amp;rsquo;s VALL-E research paper was published in early January 2023 and was followed in February by a similar piece of work by Google&amp;rsquo;s SPEAR-TTS. These technologies are part of a wider development called generative AI, whose recent breakthroughs have been making the headlines over the last months and includes image generation (DALL-E, Stable diffusion, Midjourney,…) and text generation (ChatGPT,…).&lt;/p&gt;</description>
+      <description>New TTS systems and what current detection can do.</description>
     </item>
     <item>
       <title>Deepfake audio has a tell: Validsoft can spot it</title>
       <link>https://benoitfauve.github.io/posts/2023-02-01-deepfake-audio-has-a-tell-validsoft-can-spot-it/</link>
       <pubDate>Wed, 01 Feb 2023 11:00:00 +0000</pubDate>
       <guid>https://benoitfauve.github.io/posts/2023-02-01-deepfake-audio-has-a-tell-validsoft-can-spot-it/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Original article:&lt;/strong&gt; &lt;a href=&#34;https://www.linkedin.com/pulse/deepfake-audio-has-tell-validsoft-can-spot-benoit-fauve/&#34;&gt;LinkedIn&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&#34;deepfake-audio-has-a-tell-and-validsoft-can-spot-it&#34;&gt;Deepfake Audio Has A Tell and ValidSoft Can Spot It&lt;/h1&gt;
-&lt;p&gt;Have you seen the recent news about voice cloning abuse using software produced by Eleven Labs?&lt;/p&gt;
-&lt;p&gt;Users took the voice-cloning technology to create deepfake audio recordings of the actress Emma Watson reading &lt;em&gt;Mein Kampf&lt;/em&gt; by Adolf Hitler and the broadcaster Sir David Attenborough being racist and posted them on the message board 4Chan in the latest abuse of AI technology.&lt;/p&gt;</description>
+      <description>A viral fake voice checked against biometrics and naturalness.</description>
     </item>
   </channel>
 </rss>

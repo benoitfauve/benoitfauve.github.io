@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Projects on Benoit Fauve</title>
+    <link>https://benoitfauve.github.io/projects/</link>
+    <description>Recent content in Projects on Benoit Fauve</description>
+    <generator>Hugo -- 0.170.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 Oct 2026 09:00:00 +0000</lastBuildDate>
+    <atom:link href="https://benoitfauve.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Audio denoising demo</title>
+      <link></link>
+      <pubDate>Sat, 17 Oct 2026 09:00:00 +0000</pubDate>
+      <guid></guid>
+      <description>Spectral subtraction in the browser, with the original 2001 recording.</description>
+    </item>
+  </channel>
+</rss>
